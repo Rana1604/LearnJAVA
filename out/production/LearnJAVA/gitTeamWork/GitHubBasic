@@ -1,0 +1,21 @@
+
+    // pwd (to check where i am)
+    // (to get details -> ls -al
+    // cd (for directory)
+
+    // git init (to initialize) for the first time
+
+
+    // git status (to check any new file to add)
+    // git add . (to add file to Git Hub)
+    // git commit -m "Comments"
+    // git push origin master (to push with branch wise)
+
+
+
+    // rm -rf (to remove file)
+    // ls -al (to check all list)
+    // git clone and type or paste link (to clone)Only for the first time
+    // git branch (to check all the branch)
+    // git branch (branch name) (to switch branch)
+    // git checkout -b Rana(Branch Name) (to create new branch).
